@@ -35,14 +35,14 @@ $(document).ready(function () {
 
   // typing text animation script
   var typed = new Typed(".typing", {
-    strings: ["CCTV Installment", "Security Solutions", "Door Bells", "GPS"],
+    strings: ["CCTV Installation", "Security Solutions", "Door Bells", "GPS"],
     typeSpeed: 100,
     backSpeed: 60,
     loop: true,
   });
 
   var typed = new Typed(".typing-2", {
-    strings: ["CCTV Installment", "Security Solutions", "Door Bells", "GPS"],
+    strings: ["CCTV Installation", "Security Solutions", "Door Bells", "GPS"],
     typeSpeed: 100,
     backSpeed: 60,
     loop: true,
