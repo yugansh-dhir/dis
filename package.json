@@ -1,0 +1,20 @@
+{
+  "name": "dis",
+  "version": "1.0.0",
+  "description": "Dis",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node --watch app.js",
+    "start": "node app.js"
+  },
+  "author": "yugansh dhir",
+  "license": "ISC",
+  "dependencies": {
+    "dis": "file:",
+    "ejs": "^3.1.6",
+    "ejs-mate": "^3.0.0",
+    "express": "^4.17.1",
+    "nodemon": "^3.1.9",
+    "path": "^0.12.7"
+  }
+}
